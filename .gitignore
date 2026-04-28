@@ -18,3 +18,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# personalizacion de Pycharm y otros
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
